@@ -2,12 +2,28 @@
 
 ## Dev / IT / Computer science
 
-### Linux distros
+### Backend
 
-- [Arch Linux](https://archlinux.org/)
-- [EndeavourOS](https://endeavouros.com/)
-- [NixOS](https://nixos.org/)
-    - [nix.dev](https://nix.dev/)
+Todo ...
+
+### Frontend
+
+Todo ...
+
+### Build / CI/CD / GitOps
+
+Todo ...
+
+### Container
+
+- [Docker](https://www.docker.com/)
+- [Podman](https://podman.io/)
+- [Kubernetes](https://kubernetes.io/)
+
+### Cloud
+
+- [AWS](https://aws.amazon.com/de/)
+- [Google Cloud](https://cloud.google.com/)
 
 ### Programming languages
 
@@ -26,9 +42,12 @@
 - [Ruby](https://www.ruby-lang.org/en/)
     - [Awesome Ruby](https://github.com/markets/awesome-ruby)
 
-### Container
+### Linux distros
 
-Todo
+- [Arch Linux](https://archlinux.org/)
+- [EndeavourOS](https://endeavouros.com/)
+- [NixOS](https://nixos.org/)
+    - [nix.dev](https://nix.dev/)
 
 ### Shells
 
