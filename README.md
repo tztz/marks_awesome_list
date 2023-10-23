@@ -84,6 +84,11 @@ Todo ...
 - [Zsh](https://www.zsh.org/)
     - [Oh My Zsh](https://ohmyz.sh/)
 
+### Backup / File sync
+
+- [Restic](https://restic.readthedocs.io/)
+- [rsync](https://rsync.samba.org/)
+
 ### Shopping
 
 - [ALTERNATE](https://www.alternate.de/)
