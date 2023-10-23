@@ -8,9 +8,28 @@ Todo ...
 
 ### Frontend
 
-Todo ...
+#### Frameworks
 
-### Build / CI/CD / GitOps
+- [React](https://react.dev/)
+- [Vue.js](https://vuejs.org/)
+- [Svelte](https://svelte.dev/)
+- [Solid](https://www.solidjs.com/)
+- [Qwik](https://qwik.builder.io/)
+
+#### Testing
+
+- [Testing Library](https://testing-library.com/)
+- [Vitest](https://vitest.dev/)
+- [Jest](https://jestjs.io/)
+
+#### Build / Packaging
+
+- [esbuild](https://esbuild.github.io/)
+- [Vite](https://vitejs.dev/)
+- [pnpm](https://pnpm.io/)
+- [webpack](https://webpack.js.org/)
+
+### Build pipeline / CI/CD / GitOps
 
 Todo ...
 
