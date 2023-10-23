@@ -33,7 +33,7 @@ Todo ...
 
 Todo ...
 
-### Container
+### Container / Orchestration
 
 - [Docker](https://www.docker.com/)
 - [Podman](https://podman.io/)
@@ -42,7 +42,10 @@ Todo ...
 ### Cloud
 
 - [AWS](https://aws.amazon.com/de/)
+    - [Amazon S3](https://aws.amazon.com/de/s3/)
 - [Google Cloud](https://cloud.google.com/)
+    - [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/)
+    - [GKE Autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview)
 
 ### Programming languages
 
