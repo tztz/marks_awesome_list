@@ -6,8 +6,12 @@
 
 - [Spring](https://spring.io/)
     - [Spring Boot](https://spring.io/projects/spring-boot)
-- [Reactor](https://projectreactor.io/)
+- [Node.js](https://nodejs.org/en)
 - [Ruby on Rails](https://rubyonrails.org/)
+
+### Non-blocking I/O
+
+- [Reactor](https://projectreactor.io/)
 
 ### Event streaming / Message broker
 
