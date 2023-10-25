@@ -2,11 +2,45 @@
 
 ## Backend
 
-Todo ...
+### Framework
+
+- [Spring](https://spring.io/)
+    - [Spring Boot](https://spring.io/projects/spring-boot)
+- [Reactor](https://projectreactor.io/)
+- [Ruby on Rails](https://rubyonrails.org/)
+
+### Event streaming / Message broker
+
+- [Apache Kafka](https://kafka.apache.org/)
+- [Pub/Sub](https://cloud.google.com/pubsub?hl=en)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [Apache ActiveMQ](https://activemq.apache.org/)
+
+### DBMS / Data store
+
+- [PostgreSQL](https://www.postgresql.org/)
+- [MariaDB](https://mariadb.org/) | [MySQL](https://www.mysql.com/)
+- [MongoDB](https://www.mongodb.com/en-us)
+- [Oracle](https://www.oracle.com/database/)
+- [Spanner](https://cloud.google.com/spanner?hl=en)
+- [Redis](https://redis.io/)
+- [LDAP](https://ldap.com/)
+
+### Monitoring / Alerting
+
+- [Prometheus](https://prometheus.io/)
+- [Grafana](https://grafana.com/)
+
+### API/Interface design
+
+- [REST](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [GraphQL](https://graphql.org/)
+- [gRPC](https://grpc.io/)
+- [Spring HATEOAS](https://docs.spring.io/spring-hateoas/docs/current/reference/html/)
 
 ## Frontend
 
-### Frameworks
+### Framework
 
 - [React](https://react.dev/)
 - [Vue.js](https://vuejs.org/)
