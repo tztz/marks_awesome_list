@@ -2,13 +2,13 @@
 
 ## Backend
 
-### Framework
+### Backend framework
 
 - [Spring](https://spring.io/)
-    - [Spring Boot](https://spring.io/projects/spring-boot)
+  - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Gin Web Framework](https://gin-gonic.com/)
 - [Node.js](https://nodejs.org/en)
-    - [Express](https://expressjs.com/)
+  - [Express](https://expressjs.com/)
 - [Ruby on Rails](https://rubyonrails.org/)
 
 ### Non-blocking I/O
@@ -46,7 +46,7 @@
 
 ## Frontend
 
-### Framework
+### Frontend framework
 
 - [React](https://react.dev/)
 - [Vue.js](https://vuejs.org/)
@@ -83,44 +83,45 @@
 - [Docker](https://www.docker.com/)
 - [Podman](https://podman.io/)
 - [Kubernetes](https://kubernetes.io/)
+- [OpenShift](https://openshift.com/)
 
 ## Cloud
 
 - [AWS](https://aws.amazon.com/de/)
-    - [Amazon S3](https://aws.amazon.com/de/s3/)
+  - [Amazon S3](https://aws.amazon.com/de/s3/)
 - [Google Cloud](https://cloud.google.com/)
-    - [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/)
-    - [GKE Autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview)
+  - [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/)
+  - [GKE Autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview)
 
 ## Programming languages
 
 - [Java](https://dev.java/)
-    - [Awesome Java](https://github.com/akullpp/awesome-java)
+  - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [Groovy](https://groovy-lang.org/)
-    - [Awesome Groovy](https://github.com/kdabir/awesome-groovy)
+  - [Awesome Groovy](https://github.com/kdabir/awesome-groovy)
 - [Go](https://go.dev/)
-    - [Awesome Go](https://github.com/avelino/awesome-go)
+  - [Awesome Go](https://github.com/avelino/awesome-go)
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+  - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Kotlin](https://kotlinlang.org/)
 - [Python](https://www.python.org/)
-    - [Awesome Python](https://github.com/vinta/awesome-python)
+  - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Ruby](https://www.ruby-lang.org/en/)
-    - [Awesome Ruby](https://github.com/markets/awesome-ruby)
+  - [Awesome Ruby](https://github.com/markets/awesome-ruby)
 
 ## Linux distros
 
 - [Arch Linux](https://archlinux.org/)
 - [EndeavourOS](https://endeavouros.com/)
 - [NixOS](https://nixos.org/)
-    - [nix.dev](https://nix.dev/)
+  - [nix.dev](https://nix.dev/)
 
 ## Shells
 
 - [GNU Bash](https://www.gnu.org/software/bash/)
 - [Zsh](https://www.zsh.org/)
-    - [Oh My Zsh](https://ohmyz.sh/)
+  - [Oh My Zsh](https://ohmyz.sh/)
 
 ## Backup / File sync
 
