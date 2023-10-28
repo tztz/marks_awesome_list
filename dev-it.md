@@ -6,7 +6,7 @@
 
 - [Spring](https://spring.io/)
   - [Spring Boot](https://spring.io/projects/spring-boot)
-- [Gin Web Framework](https://gin-gonic.com/)
+- [Gin Web Framework (Go)](https://gin-gonic.com/)
 - [Node.js](https://nodejs.org/en)
   - [Express](https://expressjs.com/)
 - [Ruby on Rails](https://rubyonrails.org/)
@@ -18,7 +18,7 @@
 ### Event streaming / Message broker
 
 - [Apache Kafka](https://kafka.apache.org/)
-- [Pub/Sub](https://cloud.google.com/pubsub?hl=en)
+- [Google Pub/Sub](https://cloud.google.com/pubsub?hl=en)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Apache ActiveMQ](https://activemq.apache.org/)
 
@@ -26,9 +26,10 @@
 
 - [PostgreSQL](https://www.postgresql.org/)
 - [MariaDB](https://mariadb.org/) | [MySQL](https://www.mysql.com/)
-- [MongoDB](https://www.mongodb.com/en-us)
 - [Oracle](https://www.oracle.com/database/)
 - [Spanner](https://cloud.google.com/spanner?hl=en)
+- [MongoDB](https://www.mongodb.com/en-us)
+  - [Mongoose](https://mongoosejs.com/)
 - [Redis](https://redis.io/)
 - [LDAP](https://ldap.com/)
 
@@ -54,7 +55,7 @@
 - [Solid](https://www.solidjs.com/)
 - [Qwik](https://qwik.builder.io/)
 
-### Testing
+### Frontend testing
 
 - [Testing Library](https://testing-library.com/)
 - [Vitest](https://vitest.dev/)
@@ -75,15 +76,19 @@
 
 ## Build pipeline / CI/CD / GitOps
 
-- [GitHub Actions](https://github.com/features/actions)
-- [GitLab CI/CD](https://docs.gitlab.com/ee/topics/build_your_application.html)
+- [GitHub](https://www.github.com/)
+  - [GitHub Actions](https://github.com/features/actions)
+- [GitLab](https://www.gitlab.com/)
+  - [GitLab CI/CD](https://docs.gitlab.com/ee/topics/build_your_application.html)
 
 ## Container / Orchestration
 
 - [Docker](https://www.docker.com/)
+  - [Docker Hub](https://hub.docker.com)
 - [Podman](https://podman.io/)
 - [Kubernetes](https://kubernetes.io/)
-  - [kubectx](https://github.com/ahmetb/kubectx)
+  - [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+  - [kubectx + kubens](https://github.com/ahmetb/kubectx)
 - [OpenShift](https://openshift.com/)
 
 ## Cloud
@@ -92,8 +97,12 @@
   - [Amazon S3](https://aws.amazon.com/de/s3/)
 - [Google Cloud](https://cloud.google.com/)
   - [Install kubectl and configure cluster access](https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl)
-  - [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/)
-  - [GKE Autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview)
+  - [Google Cloud products](https://cloud.google.com/products)
+    - [Artifact Registry](https://cloud.google.com/artifact-registry)
+    - [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/)
+      - [Kubernetes clusters](https://console.cloud.google.com/kubernetes/list/overview)
+      - [GKE Autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview)
+    - [Cloud Spanner](https://cloud.google.com/spanner)
 
 ## Programming languages
 
