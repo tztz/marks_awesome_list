@@ -91,7 +91,7 @@
 - [AWS](https://aws.amazon.com/de/)
   - [Amazon S3](https://aws.amazon.com/de/s3/)
 - [Google Cloud](https://cloud.google.com/)
-  - [Install kubectl and configure cluster access](https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl?authuser=0#store_info)
+  - [Install kubectl and configure cluster access](https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl)
   - [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/)
   - [GKE Autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview)
 
