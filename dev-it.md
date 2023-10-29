@@ -11,6 +11,14 @@
   - [Express](https://expressjs.com/)
 - [Ruby on Rails](https://rubyonrails.org/)
 
+### Backend testing
+
+Todo ...
+
+### Build tools
+
+Todo ...
+
 ### Non-blocking I/O
 
 - [Reactor](https://projectreactor.io/)
@@ -151,6 +159,10 @@
 - [GNU Bash](https://www.gnu.org/software/bash/)
 - [Zsh](https://www.zsh.org/)
   - [Oh My Zsh](https://ohmyz.sh/)
+
+### CLI tools
+
+- [hey - HTTP load generator](https://github.com/rakyll/hey)
 
 ## Backup / File sync
 
