@@ -101,11 +101,16 @@
   - [Services, Load Balancing, and Networking](https://kubernetes.io/docs/concepts/services-networking/)
     - [Service](https://kubernetes.io/docs/concepts/services-networking/service/)
 - [k9s](https://k9scli.io/)
+- [Helm](https://helm.sh/)
+  - [Artifact Hub](https://artifacthub.io/)
 
 ## Cloud
 
-- [AWS](https://aws.amazon.com/de/)
-  - [Amazon S3](https://aws.amazon.com/de/s3/)
+- [AWS](https://aws.amazon.com)
+  - [Amazon S3](https://aws.amazon.com/s3/)
+  - [Amazon Elastic Container Registry](https://aws.amazon.com/ecr/)
+  - [Amazon Elastic Kubernetes Service](https://aws.amazon.com/eks/)
+  - [Amazon Lightsail](https://aws.amazon.com/lightsail/)
 - [Google Cloud](https://cloud.google.com/)
   - [Install kubectl and configure cluster access](https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl)
   - [Google Cloud products](https://cloud.google.com/products)
