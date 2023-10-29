@@ -101,6 +101,7 @@
   - [Services, Load Balancing, and Networking](https://kubernetes.io/docs/concepts/services-networking/)
     - [Service](https://kubernetes.io/docs/concepts/services-networking/service/)
 - [k9s](https://k9scli.io/)
+- [Kustomize](https://kustomize.io/)
 - [Helm](https://helm.sh/)
   - [Artifact Hub](https://artifacthub.io/)
 
