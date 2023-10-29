@@ -74,22 +74,30 @@
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - even for experienced developers this is one of the best Git tutorials with focus on branching and merging
 - [Git Immersion](https://gitimmersion.com/)
 
-## Build pipeline / CI/CD / GitOps
+## Build pipeline / CI/CD
 
 - [GitHub](https://www.github.com/)
   - [GitHub Actions](https://github.com/features/actions)
+    - [Deploying to Google Kubernetes Engine](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-google-kubernetes-engine)
 - [GitLab](https://www.gitlab.com/)
   - [GitLab CI/CD](https://docs.gitlab.com/ee/topics/build_your_application.html)
 
-## Container / Orchestration
+### GitOps
+
+- [GitOps-style continuous delivery with Cloud Build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build)
+
+## Container
 
 - [Docker](https://www.docker.com/)
   - [Docker Hub](https://hub.docker.com)
 - [Podman](https://podman.io/)
+
+### Kubernetes
+
 - [Kubernetes](https://kubernetes.io/)
   - [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
   - [kubectx + kubens](https://github.com/ahmetb/kubectx)
-- [OpenShift](https://openshift.com/)
+- [k9s](https://k9scli.io/)
 
 ## Cloud
 
@@ -103,6 +111,7 @@
       - [Kubernetes clusters](https://console.cloud.google.com/kubernetes/list/overview)
       - [GKE Autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview)
     - [Cloud Spanner](https://cloud.google.com/spanner)
+- [OpenShift](https://openshift.com/)
 
 ## Programming languages
 
