@@ -95,8 +95,10 @@
 ### Kubernetes
 
 - [Kubernetes](https://kubernetes.io/)
-  - [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
   - [kubectx + kubens](https://github.com/ahmetb/kubectx)
+  - [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+  - [Services, Load Balancing, and Networking](https://kubernetes.io/docs/concepts/services-networking/)
+    - [Service](https://kubernetes.io/docs/concepts/services-networking/service/)
 - [k9s](https://k9scli.io/)
 
 ## Cloud
