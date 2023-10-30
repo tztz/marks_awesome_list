@@ -46,10 +46,13 @@ Todo ...
 - [Prometheus](https://prometheus.io/)
 - [Grafana](https://grafana.com/)
 
-### API/Interface design
+## API/Interface design
 
 - [REST](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - [GraphQL](https://graphql.org/)
+  - [GraphQL Course for Beginners](https://www.youtube.com/watch?v=5199E50O7SI)
+  - [Apollo GraphQL](https://www.apollographql.com/)
+    - [Sandbox](https://studio.apollographql.com/sandbox/explorer/)
 - [gRPC](https://grpc.io/)
 - [Spring HATEOAS](https://docs.spring.io/spring-hateoas/docs/current/reference/html/)
 
@@ -58,6 +61,7 @@ Todo ...
 ### Frontend framework
 
 - [React](https://react.dev/)
+- [Angular](https://angular.io/)
 - [Vue.js](https://vuejs.org/)
 - [Svelte](https://svelte.dev/)
 - [Solid](https://www.solidjs.com/)
