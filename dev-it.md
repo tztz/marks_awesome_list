@@ -172,10 +172,11 @@ Todo ...
 
 - [hey - HTTP load generator](https://github.com/rakyll/hey)
 
-## Backup / File sync
+## Backup / File/Mail sync
 
 - [Restic](https://restic.readthedocs.io/)
 - [rsync](https://rsync.samba.org/)
+- [imapsync](https://github.com/imapsync/imapsync)
 
 ## News / Reviews
 

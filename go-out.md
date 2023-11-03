@@ -10,9 +10,9 @@
 
 ## Restaurant
 
-- [Meister Gerhard](https://meister-gerhard.com/) >> Kwartier Latäng
+- [Meister Gerhard](https://meister-gerhard.com/) >> Kwartier Latäng (Studenten-Viertel)
 - [Bagatelle](https://www.bagatelle.koeln/) >> Südstadt
-- [485°](https://www.485grad.de/) >> Kwartier Latäng | Südstadt
+- [485°](https://www.485grad.de/) >> Kwartier Latäng (Studenten-Viertel) | Südstadt
 - [Trash Chic](https://www.trash-chic.com/de) >> Kalk
 
 ## Bar / Club
@@ -27,16 +27,18 @@
 - [Qlosterstüffje](http://www.qloster.de/) >> Ehrenfeld
 - [TRINK—GENOSSE](https://trink-genosse.de/) >> Ehrenfeld
 - [Nachtigall](https://nachtigall-ehrenfeld.de/) >> Ehrenfeld
+- [Artheaters](https://artheater.de/) >> Ehrenfeld
 - [Die hängenden Gärten von Ehrenfeld](http://www.haengendegaerten.de/) >> Ehrenfeld
 - [Der Berg Krug](http://berg-krug.de/) >> Ehrenfeld
 - [Em Drügge Pitter](https://edp-koeln.de/) >> Ehrenfeld
 - [Sonic Ballroom](https://www.sonic-ballroom.de/) >> Ehrenfeld
 - [Der schwarze Hase](https://www.instagram.com/derschwarzehase/) >> Ehrenfeld
 - [Metronom](http://metronom.koeln/) >> Mauritius-Viertel
-- [Stiefel](https://stiefelkneipe.de/) >> Kwartier Latäng
+- [Stiefel](https://stiefelkneipe.de/) >> Kwartier Latäng (Studenten-Viertel)
 - [HoteLux](https://hotelux.de/) >> Rathenau-Viertel
 - [Hallmackenreuther](https://hallmackenreuther.d.dom.de/) >> Belgisches Viertel
 - [Päff](http://paeff.koeln/) >> Friesen-Viertel
+- [Monkeys](https://www.monkeyscologne.de/) >> Stadtgarten-Viertel
 
 ## Biergarten
 
@@ -48,6 +50,9 @@
 ## Tanzen
 
 - [Club Bahnhof Ehrenfeld](https://www.clubbahnhofehrenfeld.de/) >> Ehrenfeld
+- [Bootshaus](https://bootshaus.tv/) >> Mülheim
+- [Venus Celler](https://venusceller.de/) >> Kwartier Latäng (Studenten-Viertel)
+- [Quater 1](https://www.quater1.de/) >> Martins-Viertel (Altstadt)
 
 ## Kunst
 
