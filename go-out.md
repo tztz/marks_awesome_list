@@ -14,6 +14,7 @@
 - [Bagatelle](https://www.bagatelle.koeln/) >> Südstadt
 - [485°](https://www.485grad.de/) >> Kwartier Latäng (Studenten-Viertel) | Südstadt
 - [Trash Chic](https://www.trash-chic.com/de) >> Kalk
+- [Viet Village](http://vietvillage-koeln.de/) >> Mauritius-Viertel | Ehrenfeld
 
 ## Bar / Club
 
@@ -39,6 +40,23 @@
 - [Hallmackenreuther](https://hallmackenreuther.d.dom.de/) >> Belgisches Viertel
 - [Päff](http://paeff.koeln/) >> Friesen-Viertel
 - [Monkeys](https://www.monkeyscologne.de/) >> Stadtgarten-Viertel
+
+## Brauhaus
+
+- [HELLERS Brauhaus](https://www.hellers.koeln/brauhaus-hellers/) >> Kwartier Latäng
+- [Päffgen Brauhaus](http://www.paeffgen-koelsch.de/) >> Friesen-Viertel
+- [Zum Pfaffen Brauereiausschank](https://zum-pfaffen.koeln/) >> Martins-Viertel (Altstadt)
+- [Brauerei zur Malzmühle](https://brauereizurmalzmuehle.de/) >> Martins-Viertel (Altstadt)
+- [Gilden im Zims](https://www.gilden-im-zims.de/de/) >> Martins-Viertel (Altstadt)
+- [Peters Brauhaus](https://peters-brauhaus.de/) >> Martins-Viertel (Altstadt)
+- [Bierhaus en d'r Salzgass](https://bierhaus-salzgass.de/) >> Martins-Viertel (Altstadt)
+- [Brauhaus Sion](https://www.brauhaus-sion.de/) >> Altstadt
+- [Brauhaus Sünner im Walfisch](https://walfisch.de/) >> Altstadt
+- [Brauhaus FRÜH am Dom](https://www.frueh-am-dom.de/) >> Altstadt
+- [Gaffel am Dom](https://gaffelamdom.de/) >> Altstadt
+- [Brauhaus Em Kölsche Boor](https://koelscheboor.com/) >> Eigelstein-Viertel (Altstadt-Nord)
+- [Braustelle](https://braustelle.com/) >> Ehrenfeld
+- [Brauhaus Pütz](https://brauhauspuetz.de/) >> Neustadt
 
 ## Biergarten
 
