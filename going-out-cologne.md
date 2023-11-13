@@ -1,4 +1,4 @@
-# Ausgehen
+# Going out in Cologne
 
 ## Café
 
@@ -10,11 +10,23 @@
 
 ## Restaurant
 
+### Tapas, Spanish, French
+
 - [Meister Gerhard](https://meister-gerhard.com/) >> Kwartier Latäng (Studenten-Viertel)
 - [Bagatelle](https://www.bagatelle.koeln/) >> Südstadt
-- [485°](https://www.485grad.de/) >> Kwartier Latäng (Studenten-Viertel) | Südstadt
-- [Trash Chic](https://www.trash-chic.com/de) >> Kalk
+
+### Asian
+
 - [Viet Village](http://vietvillage-koeln.de/) >> Mauritius-Viertel | Ehrenfeld
+
+### Pizza, Pasta, and co
+
+- [485°](https://www.485grad.de/) >> Kwartier Latäng (Studenten-Viertel) | Südstadt
+- [Nuvola Napoli](https://nuvolanapoli.de) >> Deutz
+
+### Classics
+
+- [Trash Chic](https://www.trash-chic.com/de) >> Kalk
 
 ## Bar / Club
 
@@ -41,7 +53,7 @@
 - [Päff](http://paeff.koeln/) >> Friesen-Viertel
 - [Monkeys](https://www.monkeyscologne.de/) >> Stadtgarten-Viertel
 
-## Brauhaus
+## Brauhaus (brewery)
 
 - [HELLERS Brauhaus](https://www.hellers.koeln/brauhaus-hellers/) >> Kwartier Latäng
 - [Päffgen Brauhaus](http://www.paeffgen-koelsch.de/) >> Friesen-Viertel
@@ -58,20 +70,20 @@
 - [Braustelle](https://braustelle.com/) >> Ehrenfeld
 - [Brauhaus Pütz](https://brauhauspuetz.de/) >> Neustadt
 
-## Biergarten
+## Biergarten (beer garden)
 
 - [Volksgarten](https://www.hellers.koeln/volksgarten-hellers/) >> Volksgarten-Viertel
 - [Bumann & Sohn](https://www.bumannundsohn.de/) >> Ehrenfeld
 - [Stadtgarten](https://www.stadtgarten.de/) >> Stadtgarten-Viertel
 - [Rathenauplatz](https://rathenauplatz.koeln/biergarten) >> Rathenau-Viertel
 
-## Tanzen
+## Dancing
 
 - [Club Bahnhof Ehrenfeld](https://www.clubbahnhofehrenfeld.de/) >> Ehrenfeld
 - [Bootshaus](https://bootshaus.tv/) >> Mülheim
 - [Venus Celler](https://venusceller.de/) >> Kwartier Latäng (Studenten-Viertel)
 - [Quater 1](https://www.quater1.de/) >> Martins-Viertel (Altstadt)
 
-## Kunst
+## Art
 
 Todo...
