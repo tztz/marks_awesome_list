@@ -53,7 +53,7 @@
 - [Päff](http://paeff.koeln/) >> Friesen-Viertel
 - [Monkeys](https://www.monkeyscologne.de/) >> Stadtgarten-Viertel
 
-## Brauhaus (brewery)
+## Brewery (Brauhaus)
 
 - [HELLERS Brauhaus](https://www.hellers.koeln/brauhaus-hellers/) >> Kwartier Latäng
 - [Päffgen Brauhaus](http://www.paeffgen-koelsch.de/) >> Friesen-Viertel
@@ -70,7 +70,7 @@
 - [Braustelle](https://braustelle.com/) >> Ehrenfeld
 - [Brauhaus Pütz](https://brauhauspuetz.de/) >> Neustadt
 
-## Biergarten (beer garden)
+## Beer garden (Biergarten)
 
 - [Volksgarten](https://www.hellers.koeln/volksgarten-hellers/) >> Volksgarten-Viertel
 - [Bumann & Sohn](https://www.bumannundsohn.de/) >> Ehrenfeld
