@@ -3,18 +3,21 @@
 ## Café
 
 - [Impact](https://cafe.impact.koeln/) >> Sülz
+- [Deli Sülz](https://www.deli-suelz.de/) >> Sülz
+- [Café Buur](https://www.cafebuur.de/) >> Neustadt
 - [THE COFFICE](https://thecoffice.de/) >> Deutz | Rheinauhafen
 - [heimisch](https://heimisch.online/) >> Deutz
 - [ST. LOUIS Café](https://www.st-louis-cafe.de/) >> Deutz
 - [ST. LOUIS Breakfast](https://www.st-louis-breakfast.de/) >> Rathenau-Viertel
 - [Café Bauturm](https://www.cafe-bauturm.de/) >> Belgisches Viertel
 - [Salon Schmitz](https://salonschmitz.com/) >> Belgisches Viertel
-- [Café Buur](https://www.cafebuur.de/) >> Neustadt
 - [cafecafe](http://www.cafecafe.de/) >> Belgisches Viertel
-- [Café Franck](https://www.cafe-franck.de/) >> Neuehrenfeld
 - [Goldmund Literaturcafé](https://www.goldmundkoeln.de/) >> Ehrenfeld
 - [Café Sehnsucht](https://sehnsucht-koeln.de/) >> Ehrenfeld
 - [Café Rotkehlchen](https://www.facebook.com/CafeRotkehlchen) >> Ehrenfeld
+- [Kaffeebud Ehrenfeld](https://www.facebook.com/KaffeebudEhrenfeld) >> Ehrenfeld
+- [Café Franck](https://www.cafe-franck.de/) >> Neuehrenfeld
+- [Leuchte Kaffeebar](https://www.leuchtekoeln.de/) >> Südstadt
 
 ## Restaurant
 
@@ -45,7 +48,7 @@
 - [Alt Neppes](http://www.alt-neppes.de/) >> Nippes
 - [Zum scheuen Reh](https://zum-scheuen-reh.de/) >> Ehrenfeld
 - [Rubinrot](https://rubinrotkoeln.de/) >> Ehrenfeld
-- Königsblut >> Ehrenfeld
+- [Königsblut](https://www.facebook.com/p/K%C3%B6nigsblut-100070914099662/) >> Ehrenfeld
 - [Qlosterstüffje](http://www.qloster.de/) >> Ehrenfeld
 - [TRINK—GENOSSE](https://trink-genosse.de/) >> Ehrenfeld
 - [Nachtigall](https://nachtigall-ehrenfeld.de/) >> Ehrenfeld
