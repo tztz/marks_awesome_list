@@ -11,6 +11,7 @@
 - [ST. LOUIS Breakfast](https://www.st-louis-breakfast.de/) >> Rathenau-Viertel
 - [Café Bauturm](https://www.cafe-bauturm.de/) >> Belgisches Viertel
 - [Salon Schmitz](https://salonschmitz.com/) >> Belgisches Viertel
+- [Kaffee & Kuchen](https://kaffeeundkuchen.net/) >> Belgisches Viertel
 - [cafecafe](http://www.cafecafe.de/) >> Belgisches Viertel | Ehrenfeld | Südstadt
 - [Goldmund Literaturcafé](https://www.goldmundkoeln.de/) >> Ehrenfeld
 - [Café Sehnsucht](https://sehnsucht-koeln.de/) >> Ehrenfeld
