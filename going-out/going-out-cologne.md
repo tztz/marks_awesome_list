@@ -88,6 +88,12 @@
 - [Bumann & Sohn](https://www.bumannundsohn.de/) >> Ehrenfeld
 - [Stadtgarten](https://www.stadtgarten.de/) >> Stadtgarten-Viertel
 - [Rathenauplatz](https://rathenauplatz.koeln/biergarten) >> Rathenau-Viertel
+- [Biergarten am Aachener Weiher](http://www.biergarten-aachenerweiher.de/) >> Neustadt
+- [Schwimmbad Rhein-Sommergarten](http://www.koeln-biergarten.de/) >> Riehl
+- [Alteburg](https://alteburg.com/) >> Bayenthal
+- [Em Birkebäumche](https://birkebaeumche.de/) >> Sülz
+- [Kalscheurer Weiher](http://kalscheurer-weiher.de/) >> Zollstock
+- [Decksteiner Mühle](https://decksteiner-mühle.com/) >> Deckstein
 
 ## Dancing
 
