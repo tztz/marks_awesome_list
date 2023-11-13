@@ -5,14 +5,22 @@
 - [Impact](https://cafe.impact.koeln/) >> Sülz
 - [THE COFFICE](https://thecoffice.de/) >> Deutz | Rheinauhafen
 - [heimisch](https://heimisch.online/) >> Deutz
+- [ST. LOUIS Café](https://www.st-louis-cafe.de/) >> Deutz
+- [ST. LOUIS Breakfast](https://www.st-louis-breakfast.de/) >> Rathenau-Viertel
 - [Café Bauturm](https://www.cafe-bauturm.de/) >> Belgisches Viertel
 - [Salon Schmitz](https://salonschmitz.com/) >> Belgisches Viertel
+- [Café Buur](https://www.cafebuur.de/) >> Neustadt
+- [cafecafe](http://www.cafecafe.de/) >> Belgisches Viertel
+- [Café Franck](https://www.cafe-franck.de/) >> Neuehrenfeld
+- [Goldmund Literaturcafé](https://www.goldmundkoeln.de/) >> Ehrenfeld
+- [Café Sehnsucht](https://sehnsucht-koeln.de/) >> Ehrenfeld
+- [Café Rotkehlchen](https://www.facebook.com/CafeRotkehlchen) >> Ehrenfeld
 
 ## Restaurant
 
 ### Tapas, Spanish, French
 
-- [Meister Gerhard](https://meister-gerhard.com/) >> Kwartier Latäng (Studenten-Viertel)
+- [Meister Gerhard](https://meister-gerhard.com/) >> Rathenau-Viertel
 - [Bagatelle](https://www.bagatelle.koeln/) >> Südstadt
 
 ### Asian
@@ -24,9 +32,10 @@
 - [485°](https://www.485grad.de/) >> Kwartier Latäng (Studenten-Viertel) | Südstadt
 - [Nuvola Napoli](https://nuvolanapoli.de) >> Deutz
 
-### Classics
+### Classics, European
 
-- [Trash Chic](https://www.trash-chic.com/de) >> Kalk
+- [Trash Chic](https://www.trash-chic.com/) >> Kalk
+- [Herr Pimock](https://www.herrpimock.de/) >> Belgisches Viertel
 
 ## Bar / Club
 
