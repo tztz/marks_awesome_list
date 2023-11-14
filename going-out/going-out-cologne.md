@@ -33,6 +33,7 @@
 - [Viet Village](http://vietvillage-koeln.de/) >> Mauritius-Viertel | Ehrenfeld
 - [Chum Chay](https://www.chum-chay.de/) >> Neustadt
 - [Lu](https://www.lokal-lu.de/) >> Neustadt
+- [Ha-Long-Bucht](https://ha-long-bucht.business.site/) >> Sülz
 
 ### Pizza, Pasta, and co
 
