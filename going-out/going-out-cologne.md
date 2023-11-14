@@ -29,7 +29,10 @@
 
 ### Asian
 
+- [Hanoi Vegan](https://hanoivegan.de/) >> Ehrenfeld
 - [Viet Village](http://vietvillage-koeln.de/) >> Mauritius-Viertel | Ehrenfeld
+- [Chum Chay](https://www.chum-chay.de/) >> Neustadt
+- [Lu](https://www.lokal-lu.de/) >> Neustadt
 
 ### Pizza, Pasta, and co
 
