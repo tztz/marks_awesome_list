@@ -40,10 +40,11 @@
 - [485°](https://www.485grad.de/) >> Kwartier Latäng (Studenten-Viertel) | Südstadt
 - [Nuvola Napoli](https://nuvolanapoli.de) >> Deutz
 
-### Classics, European
+### Classics, Burger, European
 
 - [Trash Chic](https://www.trash-chic.com/) >> Kalk
 - [Herr Pimock](https://www.herrpimock.de/) >> Belgisches Viertel
+- [Die Fette Kuh](https://www.diefettekuh.de/) >> Südstadt
 
 ## Bar / Club
 
