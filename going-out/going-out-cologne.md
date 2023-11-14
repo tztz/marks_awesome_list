@@ -72,6 +72,7 @@
 - [die wohngemeinschaft](https://www.die-wohngemeinschaft.net/) >> Belgisches Viertel
 - [Päff](http://paeff.koeln/) >> Friesen-Viertel
 - [Monkeys](https://www.monkeyscologne.de/) >> Stadtgarten-Viertel
+- [Studio 672](https://www.stadtgarten.de/) >> Stadtgarten-Viertel
 - [Tsunami Club](https://tsunami-club.de/) >> Südstadt
 
 ## Brewery (Brauhaus)
