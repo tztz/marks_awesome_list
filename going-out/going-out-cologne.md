@@ -104,10 +104,10 @@
 - [Club Bahnhof Ehrenfeld](https://www.clubbahnhofehrenfeld.de/) >> Ehrenfeld
 - [GEBÄUDE 9](https://www.gebaeude9.de/) >> Ehrenfeld
 - [Odonien](https://www.odonien.de/) >> Neuehrenfeld
+- [Essigfabrik](https://essig-fabrik.de/) >> Deutz
 - [Bootshaus](https://bootshaus.tv/) >> Mülheim
 - [Venus Celler](https://venusceller.de/) >> Kwartier Latäng (Studenten-Viertel)
 - [Quater 1](https://www.quater1.de/) >> Martins-Viertel (Altstadt)
-- [Essigfabrik](https://essig-fabrik.de/) >> Deutz
 
 ## Art
 
