@@ -105,15 +105,18 @@
 - [Kalscheurer Weiher](http://kalscheurer-weiher.de/) >> Zollstock
 - [Decksteiner Mühle](https://decksteiner-mühle.com/) >> Deckstein
 
-## Events / Live / Dancing
+## Events / Concerts / Live / Dancing
 
 - [Club Bahnhof Ehrenfeld](https://www.clubbahnhofehrenfeld.de/) >> Ehrenfeld
 - [GEBÄUDE 9](https://www.gebaeude9.de/) >> Ehrenfeld
+- [LOFT](http://www.loftkoeln.de/) >> Ehrenfeld
 - [Odonien](https://www.odonien.de/) >> Neuehrenfeld
 - [Essigfabrik](https://essig-fabrik.de/) >> Deutz
 - [Bootshaus](https://bootshaus.tv/) >> Mülheim
 - [Venus Celler](https://venusceller.de/) >> Kwartier Latäng (Studenten-Viertel)
 - [Quater 1](https://www.quater1.de/) >> Martins-Viertel (Altstadt)
+- [Jazz im Subway](http://www.jazz-im-subway.com/) >> Belgisches Viertel
+- [Subway](https://www.subway-der-club.de/) >> Belgisches Viertel
 
 ## Art
 
