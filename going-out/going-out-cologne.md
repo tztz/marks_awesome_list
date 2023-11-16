@@ -17,6 +17,7 @@
 - [Café Sehnsucht](https://sehnsucht-koeln.de/) >> Ehrenfeld
 - [Café Rotkehlchen](https://www.facebook.com/CafeRotkehlchen) >> Ehrenfeld
 - [Kaffeebud Ehrenfeld](https://www.facebook.com/KaffeebudEhrenfeld) >> Ehrenfeld
+- [Weltempfänger](https://www.koeln-hostel.de/) >> Ehrenfeld
 - [Café Franck](https://www.cafe-franck.de/) >> Neuehrenfeld
 - [Leuchte Kaffeebar](https://www.leuchtekoeln.de/) >> Südstadt
 
@@ -113,10 +114,11 @@
 - [Odonien](https://www.odonien.de/) >> Neuehrenfeld
 - [Essigfabrik](https://essig-fabrik.de/) >> Deutz
 - [Bootshaus](https://bootshaus.tv/) >> Mülheim
-- [Venus Celler](https://venusceller.de/) >> Kwartier Latäng (Studenten-Viertel)
 - [Quater 1](https://www.quater1.de/) >> Martins-Viertel (Altstadt)
-- [Jazz im Subway](http://www.jazz-im-subway.com/) >> Belgisches Viertel
 - [Subway](https://www.subway-der-club.de/) >> Belgisches Viertel
+  - [Jazz im Subway](http://www.jazz-im-subway.com/) >> Belgisches Viertel
+- [Venus Celler](https://venusceller.de/) >> Kwartier Latäng (Studenten-Viertel)
+- [Luxor](https://www.luxor-koeln.de/) >> Kwartier Latäng (Studenten-Viertel)
 
 ## Art
 
