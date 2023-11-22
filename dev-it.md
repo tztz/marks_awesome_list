@@ -79,6 +79,7 @@ Todo ...
 - [Vite](https://vitejs.dev/)
 - [pnpm](https://pnpm.io/)
 - [webpack](https://webpack.js.org/)
+- [nx](https://nx.dev/)
 
 ## Git
 
