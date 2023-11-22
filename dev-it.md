@@ -177,6 +177,11 @@ Todo ...
 - [NixOS](https://nixos.org/)
   - [nix.dev](https://nix.dev/)
 
+## Linux package manager
+
+- [yay](https://github.com/Jguer/yay)
+- [brew](https://brew.sh/)
+
 ## Shells
 
 - [GNU Bash](https://www.gnu.org/software/bash/)
