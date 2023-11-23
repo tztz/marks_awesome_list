@@ -80,6 +80,7 @@ Todo ...
 - [Vite](https://vitejs.dev/)
 - [pnpm](https://pnpm.io/)
 - [webpack](https://webpack.js.org/)
+- [nx](https://nx.dev/)
 
 ### Reactive programming
 
@@ -180,6 +181,11 @@ Todo ...
 - [EndeavourOS](https://endeavouros.com/)
 - [NixOS](https://nixos.org/)
   - [nix.dev](https://nix.dev/)
+
+## Package manager
+
+- [yay](https://github.com/Jguer/yay)
+- [brew](https://brew.sh/)
 
 ## Shells
 
