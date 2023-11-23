@@ -53,6 +53,7 @@ Todo ...
   - [GraphQL Course for Beginners](https://www.youtube.com/watch?v=5199E50O7SI)
   - [Apollo GraphQL](https://www.apollographql.com/)
     - [Sandbox](https://studio.apollographql.com/sandbox/explorer/)
+  - [Apollo Angular](https://the-guild.dev/graphql/apollo-angular/docs)
 - [gRPC](https://grpc.io/)
 - [Spring HATEOAS](https://docs.spring.io/spring-hateoas/docs/current/reference/html/)
 
@@ -79,6 +80,10 @@ Todo ...
 - [Vite](https://vitejs.dev/)
 - [pnpm](https://pnpm.io/)
 - [webpack](https://webpack.js.org/)
+
+### Reactive programming
+
+- [RxJS](https://rxjs.dev/)
 
 ## Git
 
