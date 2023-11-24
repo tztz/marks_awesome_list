@@ -197,7 +197,7 @@ Todo ...
 
 - [hey - HTTP load generator](https://github.com/rakyll/hey)
 
-## Backup / File/Mail sync
+## Backup/Sync (files/mails)
 
 - [Restic](https://restic.readthedocs.io/)
 - [rsync](https://rsync.samba.org/)
