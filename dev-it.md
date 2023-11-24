@@ -203,6 +203,10 @@ Todo ...
 - [rsync](https://rsync.samba.org/)
 - [imapsync](https://github.com/imapsync/imapsync)
 
+### Setup/Restore computer
+
+- [Mackup](https://github.com/lra/mackup)
+
 ## News / Reviews
 
 - [Hacker News](https://news.ycombinator.com/)
