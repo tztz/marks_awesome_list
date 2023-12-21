@@ -13,5 +13,5 @@
 - [Shell](dev-it/shell.md)
 - [Package manager / Installer / Runner](dev-it/package_manager_installer_runner.md)
 - [Editor / IDE](dev-it/editor_ide.md)
-- [Tools](dev-it/tools.md)
+- [Tool](dev-it/tool.md)
 - [News / Review](dev-it/news_review.md)
