@@ -7,10 +7,6 @@
 - [Build pipeline / CI/CD](dev-it/build.md)
 - [Cloud](dev-it/cloud.md)
 
-### GitOps
-
-- [GitOps-style continuous delivery with Cloud Build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build)
-
 ## Container
 
 - [Docker](https://www.docker.com/)
