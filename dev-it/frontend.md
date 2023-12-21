@@ -23,6 +23,6 @@
 - [webpack](https://webpack.js.org/)
 - [nx](https://nx.dev/)
 
-## Reactive programming
+## Reactive programming / Non-blocking I/O
 
 - [RxJS](https://rxjs.dev/)
