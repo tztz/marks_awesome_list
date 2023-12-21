@@ -175,6 +175,12 @@ Todo ...
 
 - [AsciiDoc](https://asciidoc.org/)
 
+## Editors / IDEs
+
+- [StackBlitz](https://stackblitz.com)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
 ## Linux distros
 
 - [Arch Linux](https://archlinux.org/)
@@ -182,10 +188,11 @@ Todo ...
 - [NixOS](https://nixos.org/)
   - [nix.dev](https://nix.dev/)
 
-## Package manager
+## Package manager / Installer / Runner
 
 - [yay](https://github.com/Jguer/yay)
 - [brew](https://brew.sh/)
+- [pkgx](https://pkgx.sh/)
 
 ## Shells
 
@@ -193,9 +200,15 @@ Todo ...
 - [Zsh](https://www.zsh.org/)
   - [Oh My Zsh](https://ohmyz.sh/)
 
-### CLI tools
+## Tools
+
+### CLI
 
 - [hey - HTTP load generator](https://github.com/rakyll/hey)
+
+### Web
+
+- [crontab guru](https://crontab.guru/)
 
 ## Backup/Sync (files/mails)
 
