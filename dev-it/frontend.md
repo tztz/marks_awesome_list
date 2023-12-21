@@ -1,6 +1,6 @@
 # Frontend
 
-## Frontend framework
+## Framework
 
 - [React](https://react.dev/)
 - [Angular](https://angular.io/)
@@ -9,7 +9,7 @@
 - [Solid](https://www.solidjs.com/)
 - [Qwik](https://qwik.builder.io/)
 
-## Frontend testing
+## Testing
 
 - [Testing Library](https://testing-library.com/)
 - [Vitest](https://vitest.dev/)
