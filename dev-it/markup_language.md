@@ -1,3 +1,3 @@
-# Markup languages
+# Markup language
 
 - [AsciiDoc](https://asciidoc.org/)
