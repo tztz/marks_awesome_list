@@ -1,4 +1,4 @@
-# Programming languages
+# Programming language
 
 - [Java](https://dev.java/)
   - [Awesome Java](https://github.com/akullpp/awesome-java)
