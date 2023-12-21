@@ -7,34 +7,13 @@
 - [Build pipeline / CI/CD](dev-it/build_pipeline_cicd.md)
 - [Container](dev-it/container.md)
 - [Cloud](dev-it/cloud.md)
-- [Programming languages](dev-it/programming_languages.md)
-- [Markup languages](dev-it/markup_languages.md)
-- [News / Reviews](dev-it/news_reviews.md)
-
-## Editors / IDEs
-
-- [StackBlitz](https://stackblitz.com)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-
-## Linux distros
-
-- [Arch Linux](https://archlinux.org/)
-- [EndeavourOS](https://endeavouros.com/)
-- [NixOS](https://nixos.org/)
-  - [nix.dev](https://nix.dev/)
-
-## Package manager / Installer / Runner
-
-- [yay](https://github.com/Jguer/yay)
-- [brew](https://brew.sh/)
-- [pkgx](https://pkgx.sh/)
-
-## Shells
-
-- [GNU Bash](https://www.gnu.org/software/bash/)
-- [Zsh](https://www.zsh.org/)
-  - [Oh My Zsh](https://ohmyz.sh/)
+- [Programming language](dev-it/programming_language.md)
+- [Markup language](dev-it/markup_language.md)
+- [News / Review](dev-it/news_review.md)
+- [Editor / IDE](dev-it/editor_ide.md)
+- [Linux distro](dev-it/linux_distro.md)
+- [Package manager / Installer / Runner](dev-it/package_manager_installer_runner.md)
+- [Shell](dev-it/shell.md)
 
 ## Tools
 
