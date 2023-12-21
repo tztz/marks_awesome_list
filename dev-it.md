@@ -1,7 +1,7 @@
 # Dev / IT
 
 - [Backend](dev-it/backend.md)
-- [API/Interface design](dev-it/api_if_design.md)
+- [API/Interface design](dev-it/api_interface_design.md)
 - [Frontend](dev-it/frontend.md)
 - [Git](dev-it/git.md)
 - [Build pipeline / CI/CD](dev-it/build_pipeline_cicd.md)
