@@ -1,4 +1,4 @@
-# News / Reviews
+# News / Review
 
 - [Hacker News](https://news.ycombinator.com/)
 - [Slashdot](https://slashdot.org/)
