@@ -12,8 +12,8 @@
 - [News / Review](dev-it/news_review.md)
 - [Editor / IDE](dev-it/editor_ide.md)
 - [Linux distro](dev-it/linux_distro.md)
-- [Package manager / Installer / Runner](dev-it/package_manager_installer_runner.md)
 - [Shell](dev-it/shell.md)
+- [Package manager / Installer / Runner](dev-it/package_manager_installer_runner.md)
 
 ## Tools
 
