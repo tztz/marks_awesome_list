@@ -7,6 +7,7 @@
 - [Build pipeline / CI/CD](dev-it/build_pipeline_cicd.md)
 - [Container](dev-it/container.md)
 - [Cloud](dev-it/cloud.md)
+- [News / Reviews](dev-it/news_reviews.md)
 
 ## Programming languages
 
@@ -73,13 +74,3 @@
 ### Setup/Restore computer
 
 - [Mackup](https://github.com/lra/mackup)
-
-## News / Reviews
-
-- [Hacker News](https://news.ycombinator.com/)
-- [Slashdot](https://slashdot.org/)
-- [heise online](https://www.heise.de/)
-- [golem.de](https://www.golem.de/)
-- [HackerNoon](https://hackernoon.com/)
-- [TechCrunch](https://techcrunch.com/)
-- [Notebookcheck](https://www.notebookcheck.com/)
