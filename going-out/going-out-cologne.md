@@ -35,6 +35,7 @@
 - [Chum Chay](https://www.chum-chay.de/) >> Neustadt
 - [Lu](https://www.lokal-lu.de/) >> Neustadt
 - [Ha-Long-Bucht](https://ha-long-bucht.business.site/) >> Sülz
+- [Nobiko](https://www.nobiko.de/) >> Kalk
 
 ### Pizza, Pasta, and co
 
