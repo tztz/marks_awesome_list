@@ -1,4 +1,4 @@
-# Dev / IT
+# Dev / DevOps / Computer administration
 
 - [Backend](dev-it/backend.md)
 - [API/Interface design](dev-it/api_interface_design.md)
