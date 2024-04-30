@@ -9,9 +9,9 @@
 - [Caseking](https://www.caseking.de/)
 - [computeruniverse](https://www.computeruniverse.net/de)
 - [Snogard](https://www.snogard.de/)
-- [dubaro](https://www.dubaro.de)
+- [dubaro](https://www.dubaro.de/)
 
 ## Sports / Outdoor / Camping
 
-- [Laufbursche](https://www.laufbursche.de)
-- [Bergfreunde](https://www.bergfreunde.de)
+- [Laufbursche](https://www.laufbursche.de/)
+- [Bergfreunde](https://www.bergfreunde.de/)
