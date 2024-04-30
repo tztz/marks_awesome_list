@@ -10,3 +10,5 @@
 - [computeruniverse](https://www.computeruniverse.net/de)
 - [Snogard](https://www.snogard.de/)
 - [dubaro](https://www.dubaro.de)
+- [Laufbursche](https://www.laufbursche.de)
+- [Bergfreunde](https://www.bergfreunde.de)
