@@ -2,7 +2,7 @@
 
 My curated collection of awesome links.
 
-- [Dev / IT](dev-devops-admin.md)
+- [Dev / DevOps / Computer administration](dev-devops-admin.md)
 - [Home automation](home-automation.md)
 - [Going out (Ausgehen)](going-out.md)
 - [Movies and TV series](movies_tv_series.md)
