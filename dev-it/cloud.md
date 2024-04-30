@@ -1,6 +1,6 @@
 # Cloud
 
-## Infrastructure as code (IaC)
+## Infrastructure as Code (IaC)
 
 - [Terraform](https://terraform.io)
 
