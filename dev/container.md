@@ -8,6 +8,7 @@
 
 - [Kubernetes](https://kubernetes.io/)
   - [GitHub repo](https://github.com/kubernetes)
+  - [Blog](https://kubernetes.io/blog/)
   - [All docs](https://kubernetes.io/docs/)
   - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
   - [kubectx + kubens](https://github.com/ahmetb/kubectx)
