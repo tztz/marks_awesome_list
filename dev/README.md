@@ -2,7 +2,7 @@
 
 - [Backend](backend.md)
 - [API/Interface design](api_interface_design.md)
-- [Frontend (Web)](frontend-web.md)
+- [Frontend (Web)](frontend_web.md)
 - [Git](git.md)
 - [Build pipeline / CI/CD](build_pipeline_cicd.md)
 - [Container](container.md)
@@ -11,7 +11,7 @@
 - [Markup language](markup_language.md)
 - [Linux distro](linux_distro.md)
 - [Shell](shell.md)
-- [Package manager / Installer / Runner (OS)](package_manager_installer_runner.md)
+- [Package manager / Installer / Runner (OS)](package_manager_installer_runner_os.md)
 - [Editor / IDE](editor_ide.md)
 - [Tool](tool.md)
 - [News / Review](news_review.md)
