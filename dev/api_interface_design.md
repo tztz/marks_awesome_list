@@ -9,4 +9,4 @@
 - [gRPC](https://grpc.io/)
 - [Spring HATEOAS](https://docs.spring.io/spring-hateoas/docs/current/reference/html/)
 - Mocking
-  - [tweak](https://tweak-extension.com/)
+  - [tweak](https://tweak-extension.com/) (mock HTTP requests, GraphQL requests, and more)
