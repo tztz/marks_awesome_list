@@ -18,11 +18,14 @@
 ## Build / Packaging
 
 - [npm](https://www.npmjs.com/)
+- [pnpm](https://pnpm.io/)
+- [nx](https://nx.dev/)
+
+# Bundler
+
 - [esbuild](https://esbuild.github.io/)
 - [Vite](https://vitejs.dev/)
-- [pnpm](https://pnpm.io/)
 - [webpack](https://webpack.js.org/)
-- [nx](https://nx.dev/)
 
 ## Reactive programming / Non-blocking I/O
 
