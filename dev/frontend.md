@@ -17,6 +17,7 @@
 
 ## Build / Packaging
 
+- [npm](https://www.npmjs.com/)
 - [esbuild](https://esbuild.github.io/)
 - [Vite](https://vitejs.dev/)
 - [pnpm](https://pnpm.io/)
