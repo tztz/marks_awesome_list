@@ -7,6 +7,7 @@
 ## Kubernetes
 
 - [Kubernetes](https://kubernetes.io/)
+  - [All docs](https://kubernetes.io/docs/)
   - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
   - [kubectx + kubens](https://github.com/ahmetb/kubectx)
   - [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
