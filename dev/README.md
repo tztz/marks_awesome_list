@@ -10,7 +10,7 @@
 - [Programming language](programming_language.md)
 - [Markup language](markup_language.md)
 - [Linux distro](linux_distro.md)
-- [Shell](shell.md)
+- [Terminal](terminal.md)
 - [Package manager / Installer / Runner (OS)](package_manager_installer_runner_os.md)
 - [Editor / IDE](editor_ide.md)
 - [Tool](tool.md)
