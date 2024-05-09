@@ -26,6 +26,8 @@
 - [esbuild](https://esbuild.github.io/)
 - [Vite](https://vitejs.dev/)
 - [webpack](https://webpack.js.org/)
+- [Rollup](https://rollupjs.org/)
+- [Parcel](https://parceljs.org/)
 
 ## Reactive programming / Non-blocking I/O
 
