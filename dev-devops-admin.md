@@ -2,7 +2,7 @@
 
 - [Backend](dev/backend.md)
 - [API/Interface design](dev/api_interface_design.md)
-- [Frontend](dev/frontend.md)
+- [Frontend (Web)](dev/frontend.md)
 - [Git](dev/git.md)
 - [Build pipeline / CI/CD](dev/build_pipeline_cicd.md)
 - [Container](dev/container.md)
