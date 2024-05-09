@@ -4,6 +4,6 @@ My curated collection of awesome links.
 
 - [Dev / DevOps / Computer administration](dev-devops-admin.md)
 - [Home automation](home-automation.md)
-- [Going out (Ausgehen)](going-out.md)
+- [Going out (Ausgehen)](going-out/)
 - [Movies and TV series](movies_tv_series.md)
 - [Shopping](shopping.md)
