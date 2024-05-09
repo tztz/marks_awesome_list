@@ -8,3 +8,5 @@
   - [Apollo Angular](https://the-guild.dev/graphql/apollo-angular/docs)
 - [gRPC](https://grpc.io/)
 - [Spring HATEOAS](https://docs.spring.io/spring-hateoas/docs/current/reference/html/)
+- Mocking
+  - [tweak](https://tweak-extension.com/)
