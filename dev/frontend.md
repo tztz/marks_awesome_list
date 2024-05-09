@@ -21,7 +21,7 @@
 - [pnpm](https://pnpm.io/)
 - [nx](https://nx.dev/)
 
-# Bundler
+## Bundler
 
 - [esbuild](https://esbuild.github.io/)
 - [Vite](https://vitejs.dev/)
