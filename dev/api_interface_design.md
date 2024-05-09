@@ -8,5 +8,5 @@
   - [Apollo Angular](https://the-guild.dev/graphql/apollo-angular/docs)
 - [gRPC](https://grpc.io/)
 - [Spring HATEOAS](https://docs.spring.io/spring-hateoas/docs/current/reference/html/)
-- Mocking
+- Testing / Mocking
   - [tweak](https://tweak-extension.com/) (mock HTTP requests, GraphQL queries, and more)
