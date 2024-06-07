@@ -9,6 +9,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+  - [You Don't Know JS Yet - 2nd edition (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Kotlin](https://kotlinlang.org/)
 - [Python](https://www.python.org/)
   - [Awesome Python](https://github.com/vinta/awesome-python)
