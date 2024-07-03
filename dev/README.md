@@ -6,6 +6,7 @@
 - [Git](git.md)
 - [Build pipeline / CI/CD](build_pipeline_cicd.md)
 - [Container](container.md)
+- [Infrastructure as Code (IaC)](iac.md)
 - [Cloud](cloud.md)
 - [Programming language](programming_language.md)
 - [Markup language](markup_language.md)

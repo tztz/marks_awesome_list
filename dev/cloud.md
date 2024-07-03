@@ -1,9 +1,5 @@
 # Cloud
 
-## Infrastructure as Code (IaC)
-
-- [Terraform](https://terraform.io)
-
 ## AWS
 
 - [AWS](https://aws.amazon.com)
