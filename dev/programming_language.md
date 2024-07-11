@@ -6,6 +6,7 @@
   - [Awesome Groovy](https://github.com/kdabir/awesome-groovy)
 - [Go](https://go.dev/)
   - [Awesome Go](https://github.com/avelino/awesome-go)
+  - [How to Use a Private Go Module in Your Own Project](https://www.digitalocean.com/community/tutorials/how-to-use-a-private-go-module-in-your-own-project)
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
