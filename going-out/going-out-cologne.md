@@ -38,7 +38,7 @@
 - [Nobiko](https://www.nobiko.de/) >> Kalk
 - [Bali](https://www.facebook.com/people/Bali-Restaurant-Cologne/100054217132246/) >> Belgisches Viertel
 
-### Pizza, Pasta, and co
+### Pizza, Pasta, and co.
 
 - [485°](https://www.485grad.de/) >> Kwartier Latäng (Studenten-Viertel) | Südstadt
 - [Nuvola Napoli](https://nuvolanapoli.de) >> Deutz

@@ -15,3 +15,4 @@
 
 - [Laufbursche](https://www.laufbursche.de/)
 - [Bergfreunde](https://www.bergfreunde.de/)
+- [Watery](https://www.watery.de/)
